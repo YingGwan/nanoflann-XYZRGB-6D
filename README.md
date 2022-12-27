@@ -1,5 +1,9 @@
 ![nanoflann](https://raw.githubusercontent.com/jlblancoc/nanoflann/master/doc/logo.png)
 
+# Note
+This library is easy to be modified into lots of DoFs. Some minor modifications have been made to find the correspondence between two textured point cloud with super fast speed with only CPU (without any multi-threading boost).
+The files will be uploaded later!
+
 # nanoflann
 [![CircleCI](https://circleci.com/gh/jlblancoc/nanoflann/tree/master.svg?style=svg)](https://circleci.com/gh/jlblancoc/nanoflann/tree/master)
 [![Windows build status](https://ci.appveyor.com/api/projects/status/h8k1apfogxyqhskd/branch/master?svg=true)](https://ci.appveyor.com/project/jlblancoc/nanoflann/branch/master)
